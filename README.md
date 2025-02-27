@@ -12,7 +12,8 @@ This a half-year project with the goal of making a thrust-vector-conctrolled roc
 
 
 ##Visual Designs
-![Alt text](Sketches/suggestion_visual.png)
+
+
 ##Board Computer
 
 ##Parachute Deployment
