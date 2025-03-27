@@ -1,0 +1,1 @@
+Nova Parachute Deployment Mechanism by AirCommand on Thingiverse: https://www.thingiverse.com/thing:5502347
