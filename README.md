@@ -21,7 +21,8 @@ bliblup
 
 Board Computer
 ==============
-bliblup
+<img src="Sketches/Board_Computer.png" alt="Eagle PCB" width="400"/>
+
 
 Parachute Deployment
 ====================
