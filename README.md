@@ -25,12 +25,12 @@ bliblup
 
 Parachute Deployment
 ====================
-bliblup
+<img src="Sketches/Chute_Deploy_Demo.gif" alt="Demo Preview" width="400"/>
 
 TVC System
 ==========
-bliblup
+<img src="Sketches/TVC_Image.jpg" alt="TVC System" width="400"/>
 
 About us
 ========
-![Alt text](Sketches/Logo.png)
+<img src="Sketches/Logo.png" alt="Logo" width="200"/>
