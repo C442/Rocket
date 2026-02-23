@@ -1,7 +1,11 @@
 Rocket
 ======
-![Alt text](Sketches/Plan_suggestion.png)
-This a half-year project with the goal of making a thrust-vector-conctrolled rocket. It aims to improve larger project management under time pressure and university schedule, Fusion360 skills and finish the list of what we wanted to do by the end of highschool(Yes we are late). Not to forget, this should resolve any issues related to boredom.
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/watch?v=yQALvxHjtCE/0.jpg)](http://www.youtube.com/watch?v=yQALvxHjtCE)
+Welcome to our latest Project of 2025: a rocket guidance system. 
+
+This project took around half a year to build, the other part of the year was spent documenting it. It was originally aimed to improve larger project management under time pressure and university schedule. We wanted to do this project a few years ago already, but somehow ended up with other side quests to fulfill, so this can be seen as our last highschool project, marking a waypoint for bigger, badder and more complex projects. I almost forgot that this project was also supposed to "cure problems related to boredom" and I want to point out that it definitely managed to fill quite some hours...maybe a few too many? Nah...this was worth it. 
+
+This repo will only serve as a project overview and memory. This encompasses the code, the prints, the project paper and most importantly: some pictures 
 
 
 Table of Content
@@ -17,7 +21,7 @@ Table of Content
 
 Visual Designs
 ==============
-bliblup 
+<img src="Sketches/rocket.png" alt="Eagle PCB" width="400"/>
 
 Board Computer
 ==============
